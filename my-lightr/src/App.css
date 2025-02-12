@@ -1,0 +1,31 @@
+.opacity-animation-popDown {
+  animation: popDownOpacity 1s;
+}
+
+@keyframes popDownOpacity {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/** Log in page */
+
+.Login-p {
+  background-image: url("./assets/bg-whatsapp-phones.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.login-p-desktop {
+  background-image: url("./assets/bg-whatsapp.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\Coding\\Web3\\Lightr\\my-lightr\\contracts\\Lightr.sol": {
+      "lastModificationDate": 1739380560057,
+      "contentHash": "5a1c0ca19bfd0d6c7b23ab6d0483dcc7",
+      "sourceName": "contracts/Lightr.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "Lightr"
+      ]
+    }
+  }
+}
